@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tu Nombre",
+    "stack": "Node.js",
+    "creadoEn": "21/9/2026"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos Morales",
+    "stack": "Node.js",
+    "creadoEn": "21/9/2026"
+  }
+]
